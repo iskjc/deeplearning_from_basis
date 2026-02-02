@@ -16,4 +16,3 @@ for epoch in range(epochs):
     if epoch%100==0:
         print(f'Epoch {epoch}, Loss:{loss:.4f} w;{w} b:{b} ')
 print(f'Final parameters: w:{w}, b:{b}')
-# End of linear_regression/python_original.py
