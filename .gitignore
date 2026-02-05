@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc/
 data/
+canvas2.py/
+useless_canvas.py/
+.vscode/

@@ -76,4 +76,4 @@ if __name__ == '__main__':
 # Final results
 # Epoch1:Test set: Average loss: 0.1033, Accuracy: 9700/10000 (97%)
 # Epoch2:Test set: Average loss: 0.0816, Accuracy: 9799/10000 (98%)
-#maybe higher with more epochs
+# maybe higher with more epochs
